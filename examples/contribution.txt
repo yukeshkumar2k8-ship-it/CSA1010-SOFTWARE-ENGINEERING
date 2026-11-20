@@ -1,0 +1,11 @@
+Team Project Repository - Sample Contribution
+
+This file is a sample tracked change for the GitHub collaboration experiment.
+
+Contribution checklist:
+- Work on a separate branch.
+- Save changes in the repository.
+- Commit with a meaningful message.
+- Push the branch to GitHub.
+- Open a pull request for review.
+- Merge the approved change into main.
